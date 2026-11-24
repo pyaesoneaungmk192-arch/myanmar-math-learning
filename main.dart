@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:lid/material.dart';
 
 void main() => runApp(const MyanmarMathApp());
 
